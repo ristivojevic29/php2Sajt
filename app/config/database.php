@@ -5,6 +5,6 @@ define("LOG_FAJL",ABSOLUTE_PATH."php2sajt/app/data/log.txt");
 
 define("SERVER","localhost");
 define("DBNAME","naocare");
-define("USERNAME","rist");
-define("PASSWORD","SektEfQR3333");
+define("USERNAME","");
+define("PASSWORD","");
 //SektEfQR3333
