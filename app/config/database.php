@@ -7,4 +7,4 @@ define("SERVER","localhost");
 define("DBNAME","naocare");
 define("USERNAME","");
 define("PASSWORD","");
-//SektEfQR3333
+
